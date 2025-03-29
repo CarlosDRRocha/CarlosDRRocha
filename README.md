@@ -8,7 +8,7 @@
 - ✉️ Reach me at [danielrocha2134@gmail.com](mailto:danielrocha2134@gmail.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Experienced+Full+Stack+Developer!;Division+Lead+and+Tech+Coordinator!;Expert+in+Java,+Angular,+React,+NodeJS,+and+Python!;Driving+Innovation+in+Web+Development!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Experienced+Full+Stack+Developer!;Division+Lead+and+Tech+Coordinator!;Java,+Angular,+React,+NodeJS+and+Python!;Driving+Innovation+in+Web+Development!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 ## Main STACK
