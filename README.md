@@ -44,7 +44,7 @@
 
 ## Socials
 
-<p align="left"> 
+<p align="left" p-4px> 
   <a href="https://www.github.com/CarlosDRRocha"  target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
   <a href="https://www.linkedin.com/in/carlos-daniel-ribeiro-rocha-3a3791255/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/danieel_ribeiroo/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -53,7 +53,7 @@
 <div align="center">
   <img height="203px" src="https://streak-stats.demolab.com?user=CarlosDRRocha&theme=nord&hide_border=true" />
 
-<picture p-4px>
+<picture m-4px>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
