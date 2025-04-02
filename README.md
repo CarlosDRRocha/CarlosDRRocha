@@ -51,9 +51,7 @@
 </p>
 
 <div align="center">
-  <img height="203px" src="https://streak-stats.demolab.com?user=CarlosDRRocha&theme=nord&hide_border=true" />
-
-<picture m-4px>
+  <picture m-4px>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
